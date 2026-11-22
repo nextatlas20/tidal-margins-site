@@ -1,6 +1,4 @@
-# Legacy configuration, last touched in 2019
-title: Tidal Margins Lab (archive)
-description: Archived lab website, kept online for old links
-email: admin@halcyon.edu
-github: tmargins-old
-theme: minima
+title: Tidal Margins Lab
+description: Field and model studies of how tidal wetlands and dunes buffer coastal flooding
+email: tmargins@halcyon.edu
+github: tidalmargins

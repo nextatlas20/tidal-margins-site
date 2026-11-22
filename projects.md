@@ -1,5 +1,9 @@
 ---
 title: Projects
 ---
-- Storm Surge Atlas for Small Harbors - Oregon Coastal Commission (2021-09 to 2023-08)
-- Living Shorelines Monitoring Network - Halcyon Sea Grant (2022-06 to 2025-05)
+
+## Active Projects
+
+- **Dune Buffer Performance under Compound Flooding** — Funder: National Science Foundation; Period: 2023-01 to 2026-12
+- **Salt Marsh Accretion Under Sea-Level Rise** — Funder: Department of Energy; Period: 2024-03 to 2027-02
+- **Sediment Recycling for Marsh Restoration** — Funder: National Fish and Wildlife Foundation; Period: 2025-01 to 2028-06

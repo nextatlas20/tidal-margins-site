@@ -1,13 +1,21 @@
 ---
 title: Home
 ---
-Welcome to the Tidal Margins Lab at Halcyon University. This draft site was last updated in 2019 and is kept online for old links.
 
-The lab brings together five researchers working on coastal systems.
+# Tidal Margins Lab
 
-## News
-- 2019-05-12: Lab retreat at Halcyon Bay.
-- 2019-03-04: New sediment cores collected from the north marsh.
+We are the Tidal Margins Lab, part of the Department of Civil and Environmental Engineering at Halcyon University.
 
-## Contact
-admin@halcyon.edu
+## Research focus areas
+
+- Dune and beach buffer performance
+- Salt marsh accretion and restoration
+- Compound flood exposure mapping
+
+## At a glance
+
+- Members: 6
+- Active projects: 3
+- Publications: 6
+
+Contact: tmargins@halcyon.edu
